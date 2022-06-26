@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Csv_Downloader/static/css/main.7ba56c75.css",
+    "main.js": "/Csv_Downloader/static/js/main.291bd12f.js",
+    "index.html": "/Csv_Downloader/index.html",
+    "main.7ba56c75.css.map": "/Csv_Downloader/static/css/main.7ba56c75.css.map",
+    "main.291bd12f.js.map": "/Csv_Downloader/static/js/main.291bd12f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7ba56c75.css",
+    "static/js/main.291bd12f.js"
+  ]
+}
